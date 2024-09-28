@@ -1,0 +1,7 @@
+
+requests
+streamlit 
+python-docx 
+PyPDF2
+python-pptx
+
